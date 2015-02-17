@@ -15,3 +15,6 @@ A5. Any visual aid will be a plus!  I was able to use 'git gui' to see the histo
 
 Q6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 A6. All the changes in this two branches can be tracked from the new merged head; the diagram shows parents of the new commit.
+
+
+Q7. 
