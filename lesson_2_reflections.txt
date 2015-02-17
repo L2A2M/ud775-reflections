@@ -6,3 +6,12 @@ A2. I think staging area provides a means to group files for a single commit.
 
 Q3. How can you use the staging area to make sure you have one commit per logical change?
 A3. Since there is only one staging area, files not belong to the logical change should not be added to there in order to ensure the commit corresponding only to the logical change.
+
+Q4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+A4. Situations like adding new features, or experimenting new ideas, where branches can keep these tasks going on at the same time without disrupting one another.
+
+Q5. How do the diagrams help you visualize the branch structure?
+A5. Any visual aid will be a plus!  I was able to use 'git gui' to see the history of repository in a much user-friendly manner :-)
+
+Q6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+A6. All the changes in this two branches can be tracked from the new merged head; the diagram shows parents of the new commit.
